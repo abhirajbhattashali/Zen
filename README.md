@@ -2,7 +2,7 @@
 
 # Zen Desktop Assistant
 
-**Zen Desktop Assistant** is an AI-powered virtual assistant that uses advanced natural language processing to interact with users in real-time. It listens to spoken commands, processes them asynchronously using **OlammaLLM** and **Langchain**, and responds with natural, human-like speech. Zen is optimized for low-end devices, utilizing the **Gemma:2b** model for offline text-to-speech on devices with 8GB of RAM, such as the **Mac M1 (8GB)**.
+Zen Desktop Assistant is an AI-powered virtual assistant that uses advanced natural language processing to interact with users in real-time. It listens to spoken commands, processes them asynchronously using **OlammaLLM** and **Langchain**, and responds with natural, human-like speech. Zen is optimized for low-end devices, utilizing the **Gemma:2b** model for offline text-to-speech on devices with 8GB of RAM, such as the **Mac M1 (8GB)**.
 
 ## Features:
 - **Speech Recognition**: Uses Google Speech Recognition API for accurate voice command detection.
